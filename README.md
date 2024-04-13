@@ -1,14 +1,14 @@
-## Religion and IQ
+# Religion and IQ
 
-# Aim
+## Aim
 To analyze the relationships between IQ and religion.
 
-# Software Program
+## Software Program
 Python
 
-# Libraries
+## Libraries
 Numpy, Pandas, Seaborn, Matplotlib, Beautiful Soup, Tabulate
 
-# Source
+## Source
 For IQ Data: https://tr.wikipedia.org/wiki/Ülkelere_göre_IQ
 For Religion Data: https://tr.wikipedia.org/wiki/Ülkelere_göre_dinler
